@@ -1,0 +1,22 @@
+﻿D:\Visual Studio 2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Demo.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+E:\C and C++ Projects\VS Projects\五子棋EasyX\main.cpp(155,56): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C and C++ Projects\VS Projects\五子棋EasyX\main.cpp(155,44): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C and C++ Projects\VS Projects\五子棋EasyX\main.cpp(155,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C and C++ Projects\VS Projects\五子棋EasyX\main.cpp(179,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C and C++ Projects\VS Projects\五子棋EasyX\main.cpp(223,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\C and C++ Projects\VS Projects\五子棋EasyX\main.cpp(258,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C and C++ Projects\VS Projects\五子棋EasyX\main.cpp(263,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C and C++ Projects\VS Projects\五子棋EasyX\main.cpp(263,59): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C and C++ Projects\VS Projects\五子棋EasyX\main.cpp(263,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C and C++ Projects\VS Projects\五子棋EasyX\main.cpp(264,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C and C++ Projects\VS Projects\五子棋EasyX\main.cpp(264,59): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C and C++ Projects\VS Projects\五子棋EasyX\main.cpp(264,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C and C++ Projects\VS Projects\五子棋EasyX\main.cpp(265,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C and C++ Projects\VS Projects\五子棋EasyX\main.cpp(265,59): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C and C++ Projects\VS Projects\五子棋EasyX\main.cpp(265,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C and C++ Projects\VS Projects\五子棋EasyX\main.cpp(266,72): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C and C++ Projects\VS Projects\五子棋EasyX\main.cpp(266,60): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C and C++ Projects\VS Projects\五子棋EasyX\main.cpp(266,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C and C++ Projects\VS Projects\五子棋EasyX\main.cpp(375,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Demo.vcxproj -> E:\C and C++ Projects\VS Projects\五子棋EasyX\Debug\五子棋EasyX.exe
